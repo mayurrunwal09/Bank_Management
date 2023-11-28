@@ -32,3 +32,21 @@ C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Solution1\Infrastructure_Librar
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.pdb
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.genruntimeconfig.cache
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\ref\Infrastructure_Library.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.deps.json
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.runtimeconfig.json
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Domain_Library.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\bin\Debug\net6.0\Domain_Library.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.AssemblyReference.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.AssemblyInfoInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.AssemblyInfo.cs
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.CoreCompileInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.sourcelink.json
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.CopyComplete
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\refint\Infrastructure_Library.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.genruntimeconfig.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Solution1\Infrastructure_Library\obj\Debug\net6.0\ref\Infrastructure_Library.dll
